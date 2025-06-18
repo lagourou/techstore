@@ -1,1 +1,1 @@
-"Déployé le $(date)" 
+Déployé le 19 juin à 01h33
