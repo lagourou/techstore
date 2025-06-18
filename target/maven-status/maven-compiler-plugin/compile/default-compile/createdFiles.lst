@@ -1,0 +1,6 @@
+com\cwa\techstore\model\Product.class
+com\cwa\techstore\controller\ProductController.class
+com\cwa\techstore\repository\ProductRepository.class
+com\cwa\techstore\model\ProductType.class
+com\cwa\techstore\TechstoreApplication.class
+com\cwa\techstore\config\SecurityConfig.class
