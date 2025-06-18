@@ -1,1 +1,1 @@
-Déployé le {{ aujourd’hui }}
+"Déployé le $(date)" 
